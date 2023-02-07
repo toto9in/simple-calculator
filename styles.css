@@ -86,6 +86,8 @@ body{
     justify-content: space-around;
     border-top-right-radius: 20px;
     border-top-left-radius: 20px;
+    word-wrap: break-word;
+    word-break: break-all;
 }
 
 .previous-output{
